@@ -7,7 +7,7 @@ Here is the code for speech recognition using Sphinx and Google cloud Speech API
 - PyAdudio package,  `$ pip install pyaudio`
 - Pocketsphinx package, `$ pip install pocketsphinx`  
 - Speech recognition, `$ pip install SpeechRecognition` 
-- Authenticating Google CLoud ML API, https://cloud.google.com/natural-language/docs/auth
+- Authenticating to Google Cloud ML API, https://cloud.google.com/natural-language/docs/auth
 
 # Usage
 Run following code in the terminal,
