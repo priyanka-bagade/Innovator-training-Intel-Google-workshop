@@ -66,7 +66,7 @@ classify = client.analyze_sentiment(document=document).document_sentiment
 # print('Sentiment: {}, {}'.format(sentiment.score, sentiment.magnitude))
 print("")
 print("Google ML API for Natural Language Processing:")
-print sentiment
+print(sentiment)
 
 
 def classify_text(text):
